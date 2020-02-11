@@ -1,0 +1,8 @@
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.csprojAssemblyReference.cache
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.AssemblyInfoInputs.cache
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.AssemblyInfo.cs
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.deps.json
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.dll
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.pdb
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.dll
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.pdb
