@@ -1,0 +1,8 @@
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.deps.json
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.dll
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.pdb
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.csprojAssemblyReference.cache
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.AssemblyInfoInputs.cache
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.AssemblyInfo.cs
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.dll
+/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.pdb
