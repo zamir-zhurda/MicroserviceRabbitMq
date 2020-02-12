@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "MediatR/8.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -60,6 +69,24 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RabbitMQ.Client/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+        }
+      },
       "System.Runtime.CompilerServices.Unsafe/4.5.2": {
         "type": "package",
         "compile": {
@@ -80,10 +107,52 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
         }
+      },
+      "Microservice.RabbitMQ.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MediatR": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Microservice.RabbitMQ.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Microservice.RabbitMQ.Domain.Core.dll": {}
+        }
+      },
+      "Microservice.RabbitMQ.Infra.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MediatR": "8.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "RabbitMQ.Client": "5.1.2"
+        },
+        "compile": {
+          "bin/placeholder/Microservice.RabbitMQ.Infra.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Microservice.RabbitMQ.Infra.Bus.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "MediatR/8.0.0": {
+      "sha512": "cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "type": "package",
+      "path": "mediatr/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.8.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
       "sha512": "1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
       "type": "package",
@@ -286,6 +355,54 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "RabbitMQ.Client/5.1.2": {
+      "sha512": "Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "type": "package",
+      "path": "rabbitmq.client/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net451/RabbitMQ.Client.dll",
+        "lib/net451/RabbitMQ.Client.xml",
+        "lib/netstandard1.5/RabbitMQ.Client.dll",
+        "lib/netstandard1.5/RabbitMQ.Client.xml",
+        "lib/netstandard2.0/RabbitMQ.Client.dll",
+        "lib/netstandard2.0/RabbitMQ.Client.xml",
+        "rabbitmq.client.5.1.2.nupkg.sha512",
+        "rabbitmq.client.nuspec"
+      ]
+    },
     "System.Runtime.CompilerServices.Unsafe/4.5.2": {
       "sha512": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
       "type": "package",
@@ -345,10 +462,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Microservice.RabbitMQ.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj",
+      "msbuildProject": "../../Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj"
+    },
+    "Microservice.RabbitMQ.Infra.Bus/1.0.0": {
+      "type": "project",
+      "path": "../../Infra.Bus/Microservice.RabbitMQ.Infra.Bus/Microservice.RabbitMQ.Infra.Bus.csproj",
+      "msbuildProject": "../../Infra.Bus/Microservice.RabbitMQ.Infra.Bus/Microservice.RabbitMQ.Infra.Bus.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Microservice.RabbitMQ.Domain.Core >= 1.0.0",
+      "Microservice.RabbitMQ.Infra.Bus >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 3.1.1",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -376,7 +505,14 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj": {
+              "projectPath": "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj"
+            },
+            "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.Bus/Microservice.RabbitMQ.Infra.Bus/Microservice.RabbitMQ.Infra.Bus.csproj": {
+              "projectPath": "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.Bus/Microservice.RabbitMQ.Infra.Bus/Microservice.RabbitMQ.Infra.Bus.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
