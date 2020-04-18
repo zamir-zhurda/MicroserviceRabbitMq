@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "93eL4RKDA7XSUza9jtWhAM2a4pAiDfghVz8HpCSMJxjt6ueE42ZKf1/wq4zzwkvVnOLinkxpGQaVx+eFO9zWPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Infra.Bus\\Microservice.RabbitMQ.Infra.Bus\\Microservice.RabbitMQ.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

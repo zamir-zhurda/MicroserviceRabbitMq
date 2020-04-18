@@ -38,7 +38,7 @@ namespace Microservice.RabbitMQ.Infra.Bus
 
         public void Publish<T>(T @event) where T : Event
         {
-            var factory = new ConnectionFactory() { HostName = "rabbitmq" };
+            var factory = new ConnectionFactory() { HostName = "rabbitmq-server" };
             using (var connection = factory.CreateConnection())
             {
                 using (var channel = connection.CreateModel())

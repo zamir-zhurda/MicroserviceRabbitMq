@@ -1,0 +1,9 @@
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.deps.json
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.csprojAssemblyReference.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.csproj.CoreCompileInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.AssemblyInfoInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.AssemblyInfo.cs
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Application.pdb

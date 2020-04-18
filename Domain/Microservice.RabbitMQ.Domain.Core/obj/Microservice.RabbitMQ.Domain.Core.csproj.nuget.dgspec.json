@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj": {}
+    "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Domain\\Microservice.RabbitMQ.Domain.Core\\Microservice.RabbitMQ.Domain.Core.csproj": {}
   },
   "projects": {
-    "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj": {
+    "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Domain\\Microservice.RabbitMQ.Domain.Core\\Microservice.RabbitMQ.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Domain\\Microservice.RabbitMQ.Domain.Core\\Microservice.RabbitMQ.Domain.Core.csproj",
         "projectName": "Microservice.RabbitMQ.Domain.Core",
-        "projectPath": "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj",
-        "packagesPath": "/Users/zamirzhurda/.nuget/packages/",
-        "outputPath": "/Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Domain/Microservice.RabbitMQ.Domain.Core/obj/",
+        "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Domain\\Microservice.RabbitMQ.Domain.Core\\Microservice.RabbitMQ.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Fullstack 1001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Domain\\Microservice.RabbitMQ.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zamirzhurda/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Fullstack 1001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
