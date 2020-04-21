@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CBdyban3yRriMqpGH6e7Tu45bo23Alc03YkmjTKJOYLLHVzP6H2M+3ZwMxpeAEsXKlFD1N59m6lbVTfOK+h28Q==",
+  "dgSpecHash": "qY7oFFpSh/Pj9QfU5KLr9vAMgQ86kB0N8cJrMWjIaokCk6VbaqN4oFI+vExUyh06QY0O0iBbnAqx/YJKjgu0VQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Banking.Api\\Microservice.RabbitMQ.Banking.Api.csproj",
   "expectedPackageFiles": [

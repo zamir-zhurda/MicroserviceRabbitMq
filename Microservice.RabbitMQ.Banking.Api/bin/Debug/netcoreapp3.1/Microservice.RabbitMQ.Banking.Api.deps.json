@@ -1310,7 +1310,8 @@
       "Microservice.RabbitMQ.Banking.Application/1.0.0": {
         "dependencies": {
           "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
-          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0",
+          "Microservice.RabbitMQ.Transfer.Domain": "1.0.0"
         },
         "runtime": {
           "Microservice.RabbitMQ.Banking.Application.dll": {}
@@ -1375,6 +1376,8 @@
           "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
           "Microservice.RabbitMQ.Domain.Core": "1.0.0",
           "Microservice.RabbitMQ.Infra.Bus": "1.0.0",
+          "Microservice.RabbitMQ.Transfer.Application": "1.0.0",
+          "Microservice.RabbitMQ.Transfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.3"
         },
         "runtime": {
@@ -1382,6 +1385,43 @@
         },
         "compile": {
           "Microservice.RabbitMQ.Infra.IoC.dll": {}
+        }
+      },
+      "Microservice.RabbitMQ.Transfer.Application/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0",
+          "Microservice.RabbitMQ.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Microservice.RabbitMQ.Transfer.Application.dll": {}
+        },
+        "compile": {
+          "Microservice.RabbitMQ.Transfer.Application.dll": {}
+        }
+      },
+      "Microservice.RabbitMQ.Transfer.Data/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "runtime": {
+          "Microservice.RabbitMQ.Transfer.Data.dll": {}
+        },
+        "compile": {
+          "Microservice.RabbitMQ.Transfer.Data.dll": {}
+        }
+      },
+      "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Microservice.RabbitMQ.Transfer.Domain.dll": {}
+        },
+        "compile": {
+          "Microservice.RabbitMQ.Transfer.Domain.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3723,6 +3763,21 @@
       "sha512": ""
     },
     "Microservice.RabbitMQ.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microservice.RabbitMQ.Transfer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microservice.RabbitMQ.Transfer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

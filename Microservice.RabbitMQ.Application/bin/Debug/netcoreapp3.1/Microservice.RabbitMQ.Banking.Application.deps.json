@@ -9,7 +9,8 @@
       "Microservice.RabbitMQ.Banking.Application/1.0.0": {
         "dependencies": {
           "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
-          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0",
+          "Microservice.RabbitMQ.Transfer.Domain": "1.0.0"
         },
         "runtime": {
           "Microservice.RabbitMQ.Banking.Application.dll": {}
@@ -38,6 +39,15 @@
         "runtime": {
           "Microservice.RabbitMQ.Domain.Core.dll": {}
         }
+      },
+      "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Microservice.RabbitMQ.Transfer.Domain.dll": {}
+        }
       }
     }
   },
@@ -60,6 +70,11 @@
       "sha512": ""
     },
     "Microservice.RabbitMQ.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

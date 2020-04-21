@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "87CR0XZx7puBPUTJnIdMmZRhC2tF7hfD4y3bKjuWEHVuZ803sDvcm7JO8zoPwipGoQFnPTmzBpJQECLrGYdAng==",
+  "dgSpecHash": "r4chFFVSyxIHN/X3QhNa0VO0Um+GBljwrD8aFAV/qFrjg883mQUailw4VB4d/7a0YGp76klFdXQCazqGGkWeLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Transfer.Domain\\Microservice.RabbitMQ.Transfer.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

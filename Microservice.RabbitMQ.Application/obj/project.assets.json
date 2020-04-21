@@ -36,6 +36,20 @@
         "runtime": {
           "bin/placeholder/Microservice.RabbitMQ.Domain.Core.dll": {}
         }
+      },
+      "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Microservice.RabbitMQ.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Microservice.RabbitMQ.Transfer.Domain.dll": {}
+        }
       }
     }
   },
@@ -62,12 +76,18 @@
       "type": "project",
       "path": "../Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj",
       "msbuildProject": "../Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj"
+    },
+    "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Microservice.RabbitMQ.Transfer.Domain/Microservice.RabbitMQ.Transfer.Domain.csproj",
+      "msbuildProject": "../Microservice.RabbitMQ.Transfer.Domain/Microservice.RabbitMQ.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microservice.RabbitMQ.Banking.Domain >= 1.0.0",
-      "Microservice.RabbitMQ.Domain.Core >= 1.0.0"
+      "Microservice.RabbitMQ.Domain.Core >= 1.0.0",
+      "Microservice.RabbitMQ.Transfer.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -101,6 +121,9 @@
             },
             "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj": {
               "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj"
+            },
+            "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Transfer.Domain\\Microservice.RabbitMQ.Transfer.Domain.csproj": {
+              "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Transfer.Domain\\Microservice.RabbitMQ.Transfer.Domain.csproj"
             }
           }
         }

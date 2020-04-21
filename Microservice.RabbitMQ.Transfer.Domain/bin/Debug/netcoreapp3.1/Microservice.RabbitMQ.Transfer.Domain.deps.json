@@ -7,14 +7,59 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "Microservice.RabbitMQ.Transfer.Domain.dll": {}
+        }
+      },
+      "MediatR/8.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Microservice.RabbitMQ.Banking.Domain.dll": {}
+        }
+      },
+      "Microservice.RabbitMQ.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.0.0"
+        },
+        "runtime": {
+          "Microservice.RabbitMQ.Domain.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Microservice.RabbitMQ.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "path": "mediatr/8.0.0",
+      "hashPath": "mediatr.8.0.0.nupkg.sha512"
+    },
+    "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microservice.RabbitMQ.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
