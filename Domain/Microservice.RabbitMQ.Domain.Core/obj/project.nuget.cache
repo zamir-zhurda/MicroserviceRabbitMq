@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ubo7KW3uqAvapgrMQuebR/zc7BeIUU0IpPn1mZmIQIPTWinJ+sZzGtAbbg8YYZLTm2TBJcGc7I5GK3KpwupGA==",
+  "dgSpecHash": "Iz2jXm0F3R8qI6o9KwjMRNraMutLxE2YgS3uNO6aABV+d4AOHpn6gEUoJEh35/8JhJQ4BNn0dYmVaL9x5xQ7Eg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Domain\\Microservice.RabbitMQ.Domain.Core\\Microservice.RabbitMQ.Domain.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
-    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

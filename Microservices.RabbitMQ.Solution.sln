@@ -31,9 +31,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0FDE05E1-6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Api", "Microservice.RabbitMQ.Banking.Api\Microservice.RabbitMQ.Banking.Api.csproj", "{5C9EBF84-DAF2-4F63-84A4-3E167FB22FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Application", "Microservice.RabbitMQ.Application\Microservice.RabbitMQ.Application.csproj", "{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Application", "Microservice.RabbitMQ.Application\Microservice.RabbitMQ.Banking.Application.csproj", "{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Domain", "Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Domain.csproj", "{AC3A6A11-4325-448A-9292-A23FFD0DB59F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Domain", "Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain.csproj", "{AC3A6A11-4325-448A-9292-A23FFD0DB59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Data", "Microservice.RabbitMQ.Banking.Data\Microservice.RabbitMQ.Banking.Data.csproj", "{23A94044-0960-4165-8EA3-EC4022AA5487}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,18 @@ Global
 		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x64.Build.0 = Release|Any CPU
 		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x86.ActiveCfg = Release|Any CPU
 		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x86.Build.0 = Release|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|x64.Build.0 = Debug|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|x86.Build.0 = Debug|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x64.ActiveCfg = Release|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x64.Build.0 = Release|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x86.ActiveCfg = Release|Any CPU
+		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -133,6 +147,7 @@ Global
 		{5C9EBF84-DAF2-4F63-84A4-3E167FB22FFF} = {7EFD716E-5BF5-42CB-8445-E7371EFEC795}
 		{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856} = {909AB7F8-48A3-429D-9A2E-CCE91A90E955}
 		{AC3A6A11-4325-448A-9292-A23FFD0DB59F} = {336AE904-A873-4FF4-B266-EA76FC21312A}
+		{23A94044-0960-4165-8EA3-EC4022AA5487} = {0FDE05E1-6C38-4564-9B98-C499416187C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {14FBC3B1-06E2-494F-9744-5DC4319CFE15}

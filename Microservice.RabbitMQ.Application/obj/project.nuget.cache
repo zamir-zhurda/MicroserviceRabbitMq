@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OWKkUuUnyspsulID6U+pdNQ2299oDZaGKXFusBhRQvNfB5fnYGzo0a5QV5siFgzVnHKKZwkJkEHxiOTOa75UGw==",
+  "dgSpecHash": "eBukEZezitMc7HPJFbt+3wV8n4DxEfNVHwZDHH6vlQtB9zRb+4GgfOZHYYx7ZEH0x/8A1RpSEzxC2dH6g4USFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Application\\Microservice.RabbitMQ.Application.csproj",
+  "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Application\\Microservice.RabbitMQ.Banking.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

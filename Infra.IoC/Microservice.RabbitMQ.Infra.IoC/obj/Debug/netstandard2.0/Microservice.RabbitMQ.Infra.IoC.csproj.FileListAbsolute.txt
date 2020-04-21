@@ -11,17 +11,3 @@
 /Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Domain.Core.pdb
 /Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/bin/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.Bus.pdb
 /Users/zamirzhurda/Documents/asp.net.core.projects/asp.net core microservices/MicroserviceRabbitMq/Infra.IoC/Microservice.RabbitMQ.Infra.IoC/obj/Debug/netstandard2.0/Microservice.RabbitMQ.Infra.IoC.csproj.CopyComplete
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.deps.json
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.dll
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.pdb
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Domain.Core.dll
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.Bus.dll
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Domain.Core.pdb
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.Bus.pdb
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.csprojAssemblyReference.cache
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.csproj.CoreCompileInputs.cache
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.AssemblyInfoInputs.cache
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.AssemblyInfo.cs
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.csproj.CopyComplete
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.dll
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netstandard2.0\Microservice.RabbitMQ.Infra.IoC.pdb
