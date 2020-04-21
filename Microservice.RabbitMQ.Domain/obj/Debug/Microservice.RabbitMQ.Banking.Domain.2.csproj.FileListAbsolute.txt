@@ -1,0 +1,5 @@
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\bin\Debug\Microservice.RabbitMQ.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\bin\Debug\Microservice.RabbitMQ.Domain.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\obj\Debug\Microservice.RabbitMQ.Banking.Domain.2.csproj.CoreCompileInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\obj\Debug\Microservice.RabbitMQ.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\obj\Debug\Microservice.RabbitMQ.Domain.pdb

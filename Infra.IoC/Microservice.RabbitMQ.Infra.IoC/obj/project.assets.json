@@ -1284,7 +1284,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Microservice.RabbitMQ.Banking.Domain": "1.0.0"
+          "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Microservice.RabbitMQ.Banking.Application.dll": {}
@@ -1310,6 +1311,10 @@
       },
       "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Microservice.RabbitMQ.Banking.Domain.dll": {}
         },
@@ -5084,8 +5089,8 @@
     },
     "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
       "type": "project",
-      "path": "../../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain.csproj",
-      "msbuildProject": "../../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain.csproj"
+      "path": "../../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain/Microservice.RabbitMQ.Banking.Domain.csproj",
+      "msbuildProject": "../../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain/Microservice.RabbitMQ.Banking.Domain.csproj"
     },
     "Microservice.RabbitMQ.Domain.Core/1.0.0": {
       "type": "project",
@@ -5146,8 +5151,8 @@
             "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Banking.Data\\Microservice.RabbitMQ.Banking.Data.csproj": {
               "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Banking.Data\\Microservice.RabbitMQ.Banking.Data.csproj"
             },
-            "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj": {
-              "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj"
+            "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj": {
+              "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj"
             }
           }
         }

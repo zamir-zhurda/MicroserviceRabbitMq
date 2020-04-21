@@ -1,8 +1,10 @@
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.deps.json
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.pdb
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.dll
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.csprojAssemblyReference.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.csproj.CoreCompileInputs.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Application\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.AssemblyInfoInputs.cache

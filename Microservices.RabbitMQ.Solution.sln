@@ -29,13 +29,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0FDE05E1-6C38-4564-9B98-C499416187C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Api", "Microservice.RabbitMQ.Banking.Api\Microservice.RabbitMQ.Banking.Api.csproj", "{5C9EBF84-DAF2-4F63-84A4-3E167FB22FFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.RabbitMQ.Banking.Api", "Microservice.RabbitMQ.Banking.Api\Microservice.RabbitMQ.Banking.Api.csproj", "{5C9EBF84-DAF2-4F63-84A4-3E167FB22FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Application", "Microservice.RabbitMQ.Application\Microservice.RabbitMQ.Banking.Application.csproj", "{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.RabbitMQ.Banking.Application", "Microservice.RabbitMQ.Application\Microservice.RabbitMQ.Banking.Application.csproj", "{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Domain", "Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain.csproj", "{AC3A6A11-4325-448A-9292-A23FFD0DB59F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.RabbitMQ.Banking.Data", "Microservice.RabbitMQ.Banking.Data\Microservice.RabbitMQ.Banking.Data.csproj", "{23A94044-0960-4165-8EA3-EC4022AA5487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Data", "Microservice.RabbitMQ.Banking.Data\Microservice.RabbitMQ.Banking.Data.csproj", "{23A94044-0960-4165-8EA3-EC4022AA5487}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.RabbitMQ.Banking.Domain", "Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\Microservice.RabbitMQ.Banking.Domain.csproj", "{A774C6C9-661F-4F9E-B179-20146022640D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,18 +107,6 @@ Global
 		{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}.Release|x64.Build.0 = Release|Any CPU
 		{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}.Release|x86.ActiveCfg = Release|Any CPU
 		{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856}.Release|x86.Build.0 = Release|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Debug|x64.Build.0 = Debug|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Debug|x86.Build.0 = Debug|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x64.ActiveCfg = Release|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x64.Build.0 = Release|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x86.ActiveCfg = Release|Any CPU
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F}.Release|x86.Build.0 = Release|Any CPU
 		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A94044-0960-4165-8EA3-EC4022AA5487}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -131,6 +119,18 @@ Global
 		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x64.Build.0 = Release|Any CPU
 		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x86.ActiveCfg = Release|Any CPU
 		{23A94044-0960-4165-8EA3-EC4022AA5487}.Release|x86.Build.0 = Release|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Debug|x64.Build.0 = Debug|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Debug|x86.Build.0 = Debug|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Release|x64.ActiveCfg = Release|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Release|x64.Build.0 = Release|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Release|x86.ActiveCfg = Release|Any CPU
+		{A774C6C9-661F-4F9E-B179-20146022640D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,8 +146,8 @@ Global
 		{0FDE05E1-6C38-4564-9B98-C499416187C6} = {72A7E55E-0A8E-4BAD-B839-98C7E61AF1DF}
 		{5C9EBF84-DAF2-4F63-84A4-3E167FB22FFF} = {7EFD716E-5BF5-42CB-8445-E7371EFEC795}
 		{05BFB2D3-E98D-4F49-ABB0-2BA6A843D856} = {909AB7F8-48A3-429D-9A2E-CCE91A90E955}
-		{AC3A6A11-4325-448A-9292-A23FFD0DB59F} = {336AE904-A873-4FF4-B266-EA76FC21312A}
 		{23A94044-0960-4165-8EA3-EC4022AA5487} = {0FDE05E1-6C38-4564-9B98-C499416187C6}
+		{A774C6C9-661F-4F9E-B179-20146022640D} = {336AE904-A873-4FF4-B266-EA76FC21312A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {14FBC3B1-06E2-494F-9744-5DC4319CFE15}

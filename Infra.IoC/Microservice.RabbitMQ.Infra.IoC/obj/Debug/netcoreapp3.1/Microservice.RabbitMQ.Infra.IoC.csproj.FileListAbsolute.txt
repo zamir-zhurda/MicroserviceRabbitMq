@@ -3,14 +3,14 @@ C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Infra.IoC.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Data.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.dll
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Infra.Bus.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Infra.Bus.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Application.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Data.pdb
-C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Infra.IoC.csprojAssemblyReference.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Infra.IoC\Microservice.RabbitMQ.Infra.IoC\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Infra.IoC.AssemblyInfoInputs.cache

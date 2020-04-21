@@ -1,0 +1,12 @@
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.deps.json
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.AssemblyInfo.cs
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.csproj.CopyComplete
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.pdb

@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MediatR/8.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
         "type": "package",
         "compile": {
@@ -1283,16 +1292,46 @@
       },
       "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Microservice.RabbitMQ.Banking.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/Microservice.RabbitMQ.Banking.Domain.dll": {}
         }
+      },
+      "Microservice.RabbitMQ.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Microservice.RabbitMQ.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Microservice.RabbitMQ.Domain.Core.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "MediatR/8.0.0": {
+      "sha512": "cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "type": "package",
+      "path": "mediatr/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.8.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
       "sha512": "1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
       "type": "package",
@@ -4998,8 +5037,13 @@
     },
     "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
       "type": "project",
-      "path": "../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain.csproj",
-      "msbuildProject": "../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain.csproj"
+      "path": "../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain/Microservice.RabbitMQ.Banking.Domain.csproj",
+      "msbuildProject": "../Microservice.RabbitMQ.Domain/Microservice.RabbitMQ.Banking.Domain/Microservice.RabbitMQ.Banking.Domain.csproj"
+    },
+    "Microservice.RabbitMQ.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj",
+      "msbuildProject": "../Domain/Microservice.RabbitMQ.Domain.Core/Microservice.RabbitMQ.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5037,8 +5081,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj": {
-              "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj"
+            "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj": {
+              "projectPath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj"
             }
           }
         }

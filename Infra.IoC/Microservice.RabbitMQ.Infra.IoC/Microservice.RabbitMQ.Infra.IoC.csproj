@@ -13,7 +13,7 @@
     <ProjectReference Include="..\..\Infra.Bus\Microservice.RabbitMQ.Infra.Bus\Microservice.RabbitMQ.Infra.Bus.csproj" />
     <ProjectReference Include="..\..\Microservice.RabbitMQ.Application\Microservice.RabbitMQ.Banking.Application.csproj" />
     <ProjectReference Include="..\..\Microservice.RabbitMQ.Banking.Data\Microservice.RabbitMQ.Banking.Data.csproj" />
-    <ProjectReference Include="..\..\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain.csproj" />
+    <ProjectReference Include="..\..\Microservice.RabbitMQ.Domain\Microservice.RabbitMQ.Banking.Domain\Microservice.RabbitMQ.Banking.Domain.csproj" />
   </ItemGroup>
 
 </Project>

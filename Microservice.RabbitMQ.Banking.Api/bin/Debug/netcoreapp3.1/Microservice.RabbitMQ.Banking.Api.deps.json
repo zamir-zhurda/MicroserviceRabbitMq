@@ -1309,7 +1309,8 @@
       },
       "Microservice.RabbitMQ.Banking.Application/1.0.0": {
         "dependencies": {
-          "Microservice.RabbitMQ.Banking.Domain": "1.0.0"
+          "Microservice.RabbitMQ.Banking.Domain": "1.0.0",
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
         },
         "runtime": {
           "Microservice.RabbitMQ.Banking.Application.dll": {}
@@ -1332,11 +1333,14 @@
         }
       },
       "Microservice.RabbitMQ.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "Microservice.RabbitMQ.Domain.Core": "1.0.0"
+        },
         "runtime": {
-          "Microservice.RabbitMQ.Domain.dll": {}
+          "Microservice.RabbitMQ.Banking.Domain.dll": {}
         },
         "compile": {
-          "Microservice.RabbitMQ.Domain.dll": {}
+          "Microservice.RabbitMQ.Banking.Domain.dll": {}
         }
       },
       "Microservice.RabbitMQ.Domain.Core/1.0.0": {

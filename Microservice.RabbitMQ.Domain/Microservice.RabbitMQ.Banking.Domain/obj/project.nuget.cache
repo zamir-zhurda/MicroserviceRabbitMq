@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDbIpHEQyIfTFBkS32t3WKZmeRxW50pD9u9gqJhsoSmS1CJbiLg8e3IG2aUq6kaiGHdcU513l94YWcY8cyTSZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Domain\\Microservice.RabbitMQ.Banking.Domain\\Microservice.RabbitMQ.Banking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

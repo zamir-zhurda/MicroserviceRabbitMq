@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iroutoyv/E3bUZfoZBmnSMlcaoSsV+DCbfFun3yThQwBd8HK/etzMBTkNR7/Tb2rm1SB4su5TD7WMzfIAGpVcw==",
+  "dgSpecHash": "zW5mTFzGyd2KrMroXBuKkM7mG4aghpOHuHeKBdgwZWEv6l/5uve6csTORVwrQZOJuFwnJ8sptGylQGKo96jnEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Banking.Data\\Microservice.RabbitMQ.Banking.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
