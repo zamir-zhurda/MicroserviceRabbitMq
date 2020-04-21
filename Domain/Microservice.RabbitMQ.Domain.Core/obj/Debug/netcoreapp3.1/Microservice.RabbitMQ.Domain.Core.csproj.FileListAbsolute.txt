@@ -1,6 +1,7 @@
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.deps.json
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.csprojAssemblyReference.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.AssemblyInfoInputs.cache
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Domain\Microservice.RabbitMQ.Domain.Core\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.AssemblyInfo.cs
