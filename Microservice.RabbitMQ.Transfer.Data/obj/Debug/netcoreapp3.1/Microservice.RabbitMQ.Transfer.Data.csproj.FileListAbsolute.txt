@@ -1,0 +1,8 @@
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.deps.json
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.AssemblyInfoInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.AssemblyInfo.cs
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.deps.json
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.csprojAssemblyReference.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.AssemblyInfo.cs
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.dll
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Domain\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Domain.pdb
