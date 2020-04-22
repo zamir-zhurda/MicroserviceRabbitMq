@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9M9hM+MIETlI4SbocIJHYC00AFZSXubXCeoWlvEUBxmf9OPbVcb+8c3oyx6hJMZkVxSNpkwvUKLrZApGpywI8g==",
+  "dgSpecHash": "wQwgDYslIeSBMcSoxpElKYBSyChwAdRt+D7nH5oCK7L6ZMvbAXm0JAyxxDV/kGQiwYIsOkNy1aQpUVhmhaHqpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Infra.Bus\\Microservice.RabbitMQ.Infra.Bus\\Microservice.RabbitMQ.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fullstack 1001\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\Fullstack 1001\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\Fullstack 1001\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Fullstack 1001\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
   ],

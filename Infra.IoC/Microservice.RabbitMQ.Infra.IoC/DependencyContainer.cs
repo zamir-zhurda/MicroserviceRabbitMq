@@ -24,7 +24,19 @@ namespace Microservice.RabbitMQ.Infra.IoC
         public static void RegisterServices(IServiceCollection services)
         {
             //Domain Bus
-            services.AddTransient<IEventBus, RabbitMQBus>();
+            ///creating only one Instance!
+            services.AddSingleton<IEventBus, RabbitMQBus>(serviceProviderOptions => {
+
+                var scopeFactory = serviceProviderOptions.GetService<IServiceScopeFactory>();
+
+                RabbitMQBus rabbitMQBus = new RabbitMQBus(serviceProviderOptions.GetService<IMediator>(), scopeFactory);
+
+                return rabbitMQBus;
+
+            });
+
+            //Subscriptions
+            services.AddTransient<TransferEventHandler>();
 
             //Add Domain Events (Banking + Transfer)
             services.AddTransient<IEventHandler<TransferCreatedEvents>, TransferEventHandler>();

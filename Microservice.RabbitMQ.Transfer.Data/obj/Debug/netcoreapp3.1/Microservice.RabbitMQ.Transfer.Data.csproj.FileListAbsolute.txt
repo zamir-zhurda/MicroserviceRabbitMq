@@ -16,3 +16,4 @@ C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microserv
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.dll
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Banking.Domain.pdb
 C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\bin\Debug\netcoreapp3.1\Microservice.RabbitMQ.Domain.Core.pdb
+C:\Users\Fullstack 1001\Source\Repos\zamir-zhurda\MicroserviceRabbitMq\Microservice.RabbitMQ.Transfer.Data\obj\Debug\netcoreapp3.1\Microservice.RabbitMQ.Transfer.Data.csprojAssemblyReference.cache

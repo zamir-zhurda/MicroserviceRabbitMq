@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "93ULTVjZJxH/aFtawqduVxldjEHAhFVzVh9fd5D57FUc7YI7JZJ55km1w/LcVrchspgkAzpovPxb9iCgA0iq2w==",
+  "dgSpecHash": "tZNmvIVtNgonvZ7FRlcFxcAzM7an7YZjuqkb6dk25Rnfdvn2NwsF2LLFZE55ez4xsWjPUzPXKn9/xxiZpZoWqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Microservice.RabbitMQ.Transfer.Api\\Microservice.RabbitMQ.Transfer.Api.csproj",
   "expectedPackageFiles": [

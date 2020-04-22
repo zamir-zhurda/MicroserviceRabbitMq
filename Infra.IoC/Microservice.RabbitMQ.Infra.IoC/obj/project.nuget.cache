@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WMwjO9GdRSXc2+ThEA1JJGz8UDPxgJc+LQgNzdQrdcmn7lb3CpRV2BrE1qB7KyrLoowTSsDtu4DP9NlYXKshbA==",
+  "dgSpecHash": "S+jQcdMPvL4L0vZuiQJMvLgLwp7dJurdFFm9N7orlY7JyjAelFetmoT8I+pvoNnDGEGHWzpw5+XTp5uasEJrPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fullstack 1001\\Source\\Repos\\zamir-zhurda\\MicroserviceRabbitMq\\Infra.IoC\\Microservice.RabbitMQ.Infra.IoC\\Microservice.RabbitMQ.Infra.IoC.csproj",
   "expectedPackageFiles": [
